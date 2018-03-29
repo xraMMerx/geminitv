@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1,Sky Sports 1 (UK)
+http://163.172.51.84:25461/live/superiptv1/superiptv111/16159.ts
+#EXTINF:-1,Sky Sports 2 (UK)
+http://163.172.51.84:25461/live/superiptv1/superiptv111/16158.ts
+#EXTINF:-1,Sky Sports 3 (UK)
+http://163.172.51.84:25461/live/superiptv1/superiptv111/16157.ts
+#EXTINF:-1,Sky Sports 4 (UK)
+http://163.172.51.84:25461/live/superiptv1/superiptv111/16156.ts
+#EXTINF:-1,Sky Sports 5 (UK)
+http://163.172.51.84:25461/live/superiptv1/superiptv111/16155.ts
+#EXTINF:-1,Sky Sports F1 (UK)
+http://163.172.51.84:25461/live/superiptv1/superiptv111/16154.ts
+#EXTINF:-1,Sky Sports News (UK)
+http://163.172.51.84:25461/live/superiptv1/superiptv111/16153.ts
+#EXTINF:-1,BT Sport 1 (UK)
+http://163.172.51.84:25461/live/superiptv1/superiptv111/16163.ts
+#EXTINF:-1,BT Sport 2 (UK)
+http://163.172.51.84:25461/live/superiptv1/superiptv111/16162.ts
+#EXTINF:-1,BT Sport 3 (UK)
+http://163.172.51.84:25461/live/superiptv1/superiptv111/16161.ts
+#EXTINF:-1,ENGLISH ELEVEN SPORTS 1 HD
+http://163.172.51.84:25461/live/superiptv1/superiptv111/25451.ts
+#EXTINF:-1,ENGLISH ELEVEN SPORTS 2 HD
+http://163.172.51.84:25461/live/superiptv1/superiptv111/25452.ts
+#EXTINF:-1,BT Sport/ESPN (UK)
+http://163.172.51.84:25461/live/superiptv1/superiptv111/16160.ts
+#EXTINF:-1,ARENA SPORT 1
+http://163.172.51.84:25461/live/superiptv1/superiptv111/17964.ts
+#EXTINF:-1,ARENA SPORT 2
+http://163.172.51.84:25461/live/superiptv1/superiptv111/17963.ts
+#EXTINF:-1,ARENA SPORT 3
+http://163.172.51.84:25461/live/superiptv1/superiptv111/17962.ts
+#EXTINF:-1,Arena Sport 4
+http://163.172.51.84:25461/live/superiptv1/superiptv111/17961.ts
