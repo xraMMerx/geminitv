@@ -1,0 +1,18 @@
+#EXTM3U
+#EXTINF:-1,##########   Joshua vs Parker PPV   ##########
+#EXTINF:-1,Sky Sports Box Office HD
+http://163.172.51.84:25461/live/superiptv1/superiptv111/20143.ts
+#EXTINF:-1,Sky Sports Box Office HD
+http://wowza2.mysoltv.com:1992/UK_BOX_OFFICE_PPV/index.m3u8
+#EXTINF:-1,Sky Sports Box Office HD
+http://163.172.51.84:25461/live/superiptv1/superiptv111/20143.ts
+#EXTINF:-1,Sky Sports Box Office HD
+http://142.44.212.105:8000/live/andrew1/andrew1/5021.ts
+#EXTINF:-1,Sky Sports Box Office HD
+http://orbit-iptv.com:2500/live/Marion/Marion123/9267.ts
+#EXTINF:-1,Sky Sports Box Office HD
+http://62.210.99.158:80/live?channelId=139&uid=2574&deviceMac=00:1A:79:3C:C6:09
+#EXTINF:-1,Sky Sports Box Office HD
+http://62.210.99.158:80/live?channelId=139&uid=2942&deviceMac=00:1A:79:3C:C6:11
+#EXTINF:-1,Sky Sports Box Office HD
+http://62.210.99.158:80/live?channelId=139&uid=5219&deviceMac=00:1a:79:46:86:13
